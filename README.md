@@ -49,6 +49,14 @@ Sin dependencias externas. No requiere servidor, instalación ni compilación.
 
 ## Cómo ejecutar el prototipo
 
+### Opción 1 — Demo en línea (recomendado)
+
+El prototipo está desplegado en GitHub Pages y puede ejecutarse directamente en el navegador sin instalación:
+
+**[https://abel-areiza-unad.github.io/-kinetic-app-unad/](https://abel-areiza-unad.github.io/-kinetic-app-unad/)**
+
+### Opción 2 — Ejecución local
+
 ```bash
 # Clonar el repositorio
 git clone https://github.com/abel-areiza-unad/-kinetic-app-unad.git
